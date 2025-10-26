@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duckito</h1>
 <h3 align="center">Learning CS</h3>
 
-- 🔭 I’m currently working on **Floating water filtration system**
+- 🔭 I’m currently working on **Floating water filtration system to slowly clear out PFAS over time**
 
 - 🌱 I’m currently learning **Python**
 
