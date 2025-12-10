@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="github-banner.svg" alt="Duckito GitHub Banner" />
-</p>
 <h1 align="center">Hi 👋, I'm Duckito</h1>
 <h3 align="center">Learning CS</h3>
 
