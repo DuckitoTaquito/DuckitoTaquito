@@ -31,12 +31,12 @@
 
   <!-- Subtext -->
   <text x="80" y="185" fill="#d1d5db" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="22">
-    Learning CS • Python • Java (soon) • Building cool projects
+    First-year CS student • Learning full-stack development
   </text>
 
-  <!-- Smaller tags -->
+  <!-- Smaller tags (UPDATED) -->
   <text x="80" y="230" fill="#a5b4fc" font-family="Consolas, 'Fira Code', monospace" font-size="16">
-    ➤ PFAS Filtration • Study Tools • Game / ASCII Experiments
+    ➤ Python • Java • Robotics
   </text>
 
   <!-- Bottom-right "code style" label -->
