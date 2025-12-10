@@ -1,0 +1,47 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#2b2d55"/>
+      <stop offset="100%" stop-color="#6a4fbf"/>
+    </linearGradient>
+
+    <!-- Faint code block pattern -->
+    <pattern id="codePattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect x="8" y="8" width="24" height="10" fill="#ffffff" opacity="0.06" rx="3"/>
+      <rect x="8" y="24" width="16" height="8" fill="#ffffff" opacity="0.04" rx="3"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- Overlay pattern on the right side -->
+  <rect x="600" y="0" width="600" height="320" fill="url(#codePattern)" opacity="0.7"/>
+
+  <!-- Accent circles -->
+  <circle cx="1040" cy="60" r="36" fill="#9b59b6" opacity="0.35"/>
+  <circle cx="1080" cy="110" r="22" fill="#00d8ff" opacity="0.4"/>
+
+  <!-- Main text -->
+  <text x="80" y="135" fill="#ffffff" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="52" font-weight="700">
+    Duckito
+  </text>
+
+  <!-- Subtext -->
+  <text x="80" y="185" fill="#d1d5db" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="22">
+    Learning CS • Python • Java (soon) • Building cool projects
+  </text>
+
+  <!-- Smaller tags -->
+  <text x="80" y="230" fill="#a5b4fc" font-family="Consolas, 'Fira Code', monospace" font-size="16">
+    ➤ PFAS Filtration • Study Tools • Game / ASCII Experiments
+  </text>
+
+  <!-- Bottom-right "code style" label -->
+  <rect x="880" y="240" width="260" height="40" rx="8" fill="#111827" opacity="0.8" />
+  <text x="900" y="266" fill="#e5e7eb" font-family="Consolas, 'Fira Code', monospace" font-size="16">
+    github.com/DuckitoTaquito
+  </text>
+</svg>
