@@ -6,7 +6,7 @@
 
 - 🎓 First-year Computer Science student
   
-- 🔭 I’m currently working on **Floating water filtration system to help clean PFAS in rural communities**
+- 🔭 I’m currently working on **A Floating water filtration system to help clean PFAS in rural communities**
 
 - 🌱 I’m currently learning **Python**
 
