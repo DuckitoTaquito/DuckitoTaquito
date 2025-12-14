@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **C++**
 
-- 🗓️ 100 Days of python challenge Day:5/100
+- 🗓️ 100 Days of python challenge Day:6/100
 
 <p align="left">
 </p>
